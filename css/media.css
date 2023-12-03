@@ -1,0 +1,934 @@
+@media (max-width: 575.98px) {
+
+    /*header start*/
+    header{
+        padding: 16px 0;
+    }
+    .t_logo {
+        font-size: 35px;
+    }
+    .menu {
+        text-align: center;
+        margin-top: 5px;
+    }
+    .menu ul li {
+        margin-bottom: 5px;
+    }
+    /*header end*/
+
+    /*banner start*/
+    .b_content {
+        margin: 60px 0;
+        text-align: center;
+    }
+    .b_h2{
+        font-size: 18px;
+    }
+    .b_h1 {
+        font-size: 26px;
+    }
+    .b_p {
+        font-size: 16px;
+        margin: 30px 0;
+        line-height: 26px;
+    }
+    .common_btn {
+        padding: 12px 20px;
+    }
+    .b_btn span {
+        margin-left: 6px;
+    }
+    /*banner end*/  
+    
+    /* booking start */
+    .booking_box{
+        margin-top: 40px;
+    }
+    .cus_h1 {
+        font-size: 35px;
+    }
+    .form_box{
+        margin-top: 30px;
+        border: 1px solid #8e8e8e;
+        border-radius: 20px;
+    }
+    .booking_form{
+        margin-top: 30px;
+    }
+    .booking_form input{
+        margin-bottom: 20px;
+        padding: 10px 15px;
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        color: black;
+        border: 1px solid #8e8e8e;
+    }
+    .booking_form input:focus{
+        outline: 0;
+        border: 2px solid #333333;
+    }
+    .booking_fin1{
+        margin-bottom: 20px;
+    }
+    .booking_fin1 input{
+        width: 100%;
+    }
+    .booking_fin1 input:first-child{
+        margin-right: 40px;
+    }
+    .booking_fin2 {
+        margin-top: -11px;
+        width: 100%;
+    }
+    .form_btn{
+        margin: 20px 0;
+        text-align: center;
+    }
+    /* booking end */
+
+    /* about start */
+    .about{
+        margin-top: -75px;
+    }
+    .a_content{
+        text-align: center;
+    }
+    .cm_h3{
+        margin-bottom: 15px !important;
+    }
+    .c_h1{
+        font-size: 30px;
+    }
+    .c_h1 span{
+        color: darkorange !important;
+    }
+    .a_p1{
+        margin-top: 20px;
+        line-height: 26px;
+        color: #8e8e8e;
+    }
+    .a_p2{
+        font-weight: 500;
+        margin-top: 25px;
+        line-height: 14px;
+        color: #8e8e8e;
+    }
+    .a_btn{
+        margin-top: 15px;
+    }
+    /* about end */
+
+    /* service start */
+    .service{
+        margin-top: -50px;
+        padding-top: 60px 0 60px;
+        background-color: #f8f8f8;
+    }
+    .s_service{
+        text-align: center;
+        margin-top: 145px;
+    }
+    /* service end */
+
+    /* taxi start */
+    .taxi{
+        margin-top: 50px;
+        padding-bottom: 20px;
+    }
+    .t_sample{
+        margin-top: 20px;
+    }
+    .t_ul li{
+        padding: 5px;
+    }
+    .t_ul{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .t_boxcont {
+        padding: 0 15px;
+    }
+    /* taxi end */
+
+    /* feature start*/
+    .feature{
+        padding-top: 40px;
+    }
+    .f_service{
+        margin-top: 40px;
+    }
+    /* feature end */
+
+    /* rate start */
+    .rate{
+        margin-top: 60px;
+    }
+    .r_h2{
+        font-weight: 600;
+    }
+    .r_p{
+        font-size: 16px;
+    }
+    .r_boxcontent{
+        padding: 5px 15px 15px 15px;
+    }
+    /* rate end */
+
+    /* drivers start */
+    .driver{
+        margin-top: -40px;
+    }
+    .cm_title2{
+        margin-top: -35px;
+    }
+    .ex_driver{
+        margin-top: 155px;
+    }
+    .ex_driver img{
+        margin-bottom: 15px;
+    }
+    .d_h2{
+        font-size: 26px;
+    }
+    .icon{
+        font-size: 15px;
+    }
+    .icon i{
+        padding: 0 10px;
+    }
+    /* drivers end */
+
+    /* choose start */
+    .choose{
+        margin-top: 50px;
+    }
+    /* choose end */
+
+    /* faq start */
+    .faq{
+        margin-top: -30px;
+    }
+    .faq_icon{
+        margin-left: -10px;
+        text-align: center;    
+    }
+    .faq_h2{
+        font-size: 22px;
+        text-align: center;
+    }
+    /* faq end */
+
+    /* testimony start */
+    .testimony{
+        margin-top: -30px;
+        padding: 40px 0 60px 0;
+    }
+    .t_item{
+        padding: 0 15px;
+        margin-top: 40px;
+    }
+    .t_img img{
+        margin-bottom: 20px;
+    }
+    .t_text{
+        text-align: center;
+    }
+    /* testimony end */
+
+    /* blog start */
+    .blog{
+        margin-top: 50px;
+    }
+    .b_item{
+        margin-top: 40px;
+    }
+    .b_middle{
+        font-size: 13px;
+    }
+    .b_middle .b_left ul li img , .b_middle .b_right ul li img{
+        height: 17px;
+        width: 17px;
+    }
+    /* blog end */
+
+    /*contact start*/
+    .c_formh1{
+        top: -130px;
+    }
+    .contact_box {
+        margin-top: 55px;
+    }
+    .c_form {
+        margin-top: 45px;
+    }
+    .cfin_1 input{
+        width: 100%;
+    }
+    .form_btn{
+        margin: 45px 0;
+    }
+    /*contact end*/
+
+    /* footer top start */
+    .footer_top{
+        text-align: center;
+    }
+    .ft_details{
+        padding-right: 0;
+        margin-bottom: 35px;
+        margin-left: 70px;
+        margin-right: 70px;
+    }
+    .ft_links h2 {
+        margin-bottom: 5px;
+        font-size: 22px;
+        line-height: 30px;
+    }
+/* footer top start */
+
+}   
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+    /*header start*/
+    .smodal_width {
+        --bs-modal-width: 440px;
+    }
+    .t_logo {
+        font-size: 40px;
+    }
+    .menu {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .menu ul li {
+        margin-bottom: 8px;
+    }
+    .m_item {
+        margin: 0;
+    }
+    /* header end */
+
+    /*banner start*/
+    .b_content {
+        margin: 70px 0;
+        text-align: center;
+    }
+    .b_h2{
+        font-size: 20px;
+    }
+    .b_h1 {
+        font-size: 30px;
+    }
+    .b_p {
+        font-size: 16px;
+        margin: 30px 0;
+        line-height: 26px;
+    }
+    .common_btn {
+        padding: 12px 20px;
+    }
+    .b_btn span {
+        margin-left: 6px;
+    }
+    /*banner end*/
+
+    /* booking start */
+    .booking_box{
+        margin-top: 40px;
+    }
+    .cus_h1 {
+        font-size: 35px;
+    }
+    .form_box{
+        margin-top: 30px;
+        border: 1px solid #8e8e8e;
+        border-radius: 20px;
+    }
+    .booking_form{
+        margin-top: 30px;
+    }
+    .booking_form input{
+        margin-bottom: 20px;
+        padding: 10px 15px;
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        color: black;
+        border: 1px solid #8e8e8e;
+    }
+    .booking_form input:focus{
+        outline: 0;
+        border: 2px solid #333333;
+    }
+    .booking_fin1{
+        margin-bottom: 20px;
+    }
+    .booking_fin1 input{
+        width: 100%;
+    }
+    .booking_fin1 input:first-child{
+        margin-right: 40px;
+    }
+    .booking_fin2 {
+        margin-top: -11px;
+        width: 100%;
+    }
+    .form_btn{
+        margin: 20px 0;
+        text-align: center;
+    }
+    /* booking end */
+
+    /* about start */
+    .about{
+        margin-top: -45px;
+    }
+    .a_content{
+        text-align: center;
+    }
+    .cm_h3{
+        margin-bottom: 15px !important;
+    }
+    .c_h1{
+        font-size: 40px;
+    }
+    .c_h1 span{
+        color: darkorange !important;
+    }
+    .a_p1{
+        margin-top: 20px;
+        line-height: 26px;
+        color: #8e8e8e;
+    }
+    .a_p2{
+        font-weight: 500;
+        margin-top: 25px;
+        line-height: 14px;
+        color: #8e8e8e;
+    }
+    .a_btn{
+        margin-top: 15px;
+    }
+    /* about end */
+
+    /* service start */
+    .service{
+        margin-top: -50px;
+        padding-top: 60px;
+        background-color: #f8f8f8;
+    }
+    .s_service{
+        text-align: center;
+        margin-top: 180px;
+    }
+    /* service end */
+
+    /* taxi start */
+    .taxi{
+        margin-top: 50px;
+        padding-bottom: 35px;
+    }
+    .t_sample{
+        margin-top: 40px;
+    }
+    .t_ul li{
+        padding: 5px;
+    }
+    .t_boxcont {
+        padding: 0 10px;
+    }
+    /* taxi end */
+
+    /* feature start*/
+    .feature{
+        padding-top: 40px;
+    }
+    .f_service{
+        margin-top: 40px;
+    }
+    /* feature end */
+
+    /* rate start */
+    .rate{
+        margin-top: 70px;
+    }
+    /* rate end */
+
+    /* faq start */
+    .faq{
+        margin-top: -40px;
+    }
+    .faq_icon{
+        margin-left: -10px;
+        text-align: center;    
+    }
+    .faq_h2{
+        font-size: 22px;
+        text-align: center;
+    }
+    /* faq end */
+
+    /* testimony start */
+    .t_item{
+        padding: 0 25px;
+        margin-top: 60px;
+    }
+    .t_img img{
+        margin-bottom: 35px;
+    }
+    .t_text{
+        text-align: center;
+    }
+    /* testimony end */
+
+    /*contact start*/
+    .c_formh1{
+        top: -130px;
+    }
+    .contact_box {
+        margin-top: 55px;
+    }
+    .c_form {
+        margin-top: 45px;
+    }
+    .cfin_1 input{
+        width: 100%;
+    }
+    .form_btn{
+        margin: 45px 0;
+    }
+    /*contact end*/
+
+    /* footer start */
+    .footer_top{
+        text-align: center;
+    }
+    .ft_details{
+        padding-right: 0;
+        margin-bottom: 35px;
+        margin-left: 70px;
+        margin-right: 70px;
+    }
+    /* footer end */
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /*header start*/
+    .smodal_width {
+        --bs-modal-width: 440px;
+    }
+    .t_logo {
+        font-size: 40px;
+    }
+    .menu {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .menu ul li {
+        margin-bottom: 8px;
+    }
+    .m_item {
+        margin: 0;
+    }
+    /* header end */
+
+    /*banner start*/
+    .b_content {
+        margin: 60px 0;
+        text-align: center;
+    }
+    .b_h2{
+        font-size: 20px;
+    }
+    .b_h1 {
+        font-size: 32px;
+    }
+    .b_p {
+        font-size: 16px;
+        margin: 30px 0;
+        line-height: 26px;
+    }
+    .common_btn {
+        padding: 12px 20px;
+    }
+    .b_btn span {
+        margin-left: 6px;
+    }
+    /*banner end*/
+
+    /* booking start */
+    .booking_box{
+        margin-top: 60px;
+    }
+    .cus_h1 {
+        font-size: 45px;
+    }
+    .form_box{
+        margin-top: 50px;
+        border: 1px solid #8e8e8e;
+        border-radius: 20px;
+    }
+    .booking_form{
+        margin-top: 50px;
+    }
+    .booking_form input{
+        margin-bottom: 20px;
+        padding: 10px 15px;
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        color: black;
+        border: 1px solid #8e8e8e;
+    }
+    .booking_form input:focus{
+        outline: 0;
+        border: 2px solid #333333;
+    }
+    .booking_fin1{
+        margin-bottom: 20px;
+    }
+    .booking_fin1 input{
+        width: 100%;
+    }
+    .booking_fin1 input:first-child{
+        margin-right: 40px;
+    }
+    .booking_fin2 {
+        margin-top: -11px;
+        width: 100%;
+    }
+    .form_btn{
+        margin: 20px 0;
+        text-align: center;
+    }
+    /* booking end */
+
+    /* about start */
+    .about{
+        margin-top: -45px;
+    }
+    .a_content{
+        text-align: center;
+    }
+    .cm_h3{
+        font-size: 30px;
+        margin-bottom: 15px !important;
+    }
+    .c_h1{
+        font-size: 50px;
+    }
+    .c_h1 span{
+        color: darkorange !important;
+    }
+    .a_p1{
+        font-size: 20px;
+        margin-top: 20px;
+        line-height: 30px;
+        color: #8e8e8e;
+    }
+    .a_p2{
+        font-size: 20px;
+        margin-top: 25px;
+        line-height: 16px;
+        color: #8e8e8e;
+    }
+    .a_btn{
+        margin-top: 35px;
+    }
+    /* about end */
+
+    /* taxi start */
+    .taxi{
+        margin-top: 50px;
+        padding-bottom: 50px;
+    }
+    .t_sample{
+        margin-top: 30px;
+    }
+    .t_ul li{
+        padding: 5px;
+    }
+    .t_boxcont {
+        padding: 0 10px;
+    }
+    /* taxi end */
+
+    /* rate start */
+    .r_h2{
+        font-size: 35px;
+    }
+    .r_p{
+        font-size: 24px;
+    }
+    .r_boxcontent p{
+        font-size: 20px;
+    }
+    /* rate end */
+
+    /* drivers start */
+    .d_h2{
+        font-size: 28px;
+    }
+    /* drivers end */
+
+    /* faq start */
+    .faq{
+        margin-top: -40px;
+    }
+    .faq_icon{
+        margin-left: -10px;
+        text-align: center;    
+    }
+    .faq_h2{
+        font-size: 22px;
+        text-align: center;
+    }
+    /* faq end */
+
+    /* testimony start */
+    .cm_h3{
+        font-size: 24px;
+    }
+    .c_h1{
+        font-size: 46px;
+    }
+    .t_item{
+        margin-top: 50px;
+    }
+    .t_text{
+        text-align: center;
+    }
+    /* testimony end */
+
+    /*contact start*/
+    .c_formh1{
+        top: -130px;
+    }
+    .contact_box {
+        margin-top: 55px;
+    }
+    .c_form {
+        margin-top: 45px;
+    }
+    .cfin_1 input{
+        width: 100%;
+    }
+    .form_btn{
+        margin: 45px 0;
+    }
+    /*contact end*/
+
+    /* footer start */
+    .footer_top{
+        text-align: center;
+    }
+    .ft_details{
+        padding-right: 0;
+        margin-bottom: 35px;
+        margin-left: 70px;
+        margin-right: 70px;
+    }
+    /* footer end */
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    
+    /*banner start*/
+    .b_content {
+        margin: 80px 0;
+        text-align: center;
+    }
+    .b_h2{
+        font-size: 20px;
+    }
+    .b_h1 {
+        font-size: 32px;
+    }
+    .b_p {
+        font-size: 16px;
+        margin: 30px 0;
+        line-height: 26px;
+    }
+    .common_btn {
+        padding: 12px 20px;
+    }
+    .b_btn span {
+        margin-left: 6px;
+    }
+    /*banner end*/
+
+    /* about start */
+    .about{
+        margin-top: -25px;
+    }
+    .cm_h3{
+        font-size: 30px;
+        margin-bottom: 15px !important;
+    }
+    .c_h1{
+        font-size: 50px;
+    }
+    .c_h1 span{
+        color: darkorange !important;
+    }
+    .a_p1{
+        font-size: 20px;
+        margin-top: 20px;
+        line-height: 30px;
+        color: #8e8e8e;
+    }
+    .a_p2{
+        font-size: 20px;
+        margin-top: 25px;
+        line-height: 16px;
+        color: #8e8e8e;
+    }
+    .a_btn{
+        margin-top: 35px;
+    }
+    /* about end */
+
+    /* service start */
+    .c_h1{
+        font-size: 46px;
+    }
+    /* service end */
+
+    /* feature start*/
+    .feature{
+        padding-top: 40px;
+    }
+    .cm_h3{
+        font-size: 28px;
+    }
+    .c_h1{
+        font-size: 36px;
+    }
+    .f_service{
+        margin-top: 40px;
+    }
+    /* feature end */
+
+    /* rate start */
+    .r_h2{
+        font-size: 30px;
+    }
+    .r_p{
+        font-size: 24px;
+    }
+    .r_boxcontent p{
+        font-size: 16px;
+    }
+    /* rate end */
+
+    /* drivers start */
+    .c_h1{
+        font-size: 46px;
+    }
+    .cm_h3{
+        font-size: 26px;
+    }
+    .ex_driver{
+        margin-top: 145px;
+    }
+    .ex_driver img{
+        margin-bottom: -10px;
+    }
+    .d_h2{
+        font-size: 26px;
+    }
+    .icon{
+        font-size: 15px;
+    }
+    /* drivers end */
+
+    /* faq start */
+    .faq_icon{
+        text-align: center;    
+    }
+    .faq_h2{
+        text-align: center;
+    }
+    /* faq end */
+
+    /* testimony start */
+    .cm_h3{
+        font-size: 24px
+    }
+    .c_h1{
+        font-size: 46px;
+    }
+    .t_text{
+        text-align: center;
+    }
+    /* testimony end */
+
+    /* blog start */
+    .b_middle{
+        font-size: 13px;
+    }
+    .b_middle .b_left ul li img , .b_middle .b_right ul li img{
+        height: 17px;
+        width: 17px;
+    }
+    /* blog end */
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    /* about start */
+    .about{
+        margin-top: 0;
+    }
+    .cm_h3{
+        font-size: 25px !important;
+        margin-bottom: 20px !important;
+    }
+    .c_h1{
+        font-size: 50px;
+    }
+    .c_h1 span{
+        color: darkorange !important;
+    }
+    .a_p1{
+        font-size: 20px;
+        margin-top: 20px;
+        line-height: 30px;
+        color: #8e8e8e;
+    }
+    .a_p2{
+        font-size: 20px;
+        margin-top: 25px;
+        line-height: 16px;
+        color: #8e8e8e;
+    }
+    .a_btn{
+        margin-top: 35px;
+    }
+    /* about end */
+
+    /* rate start */
+    .r_h2{
+        font-size: 35px;
+    }
+    .r_p{
+        font-size: 24px;
+    }
+    .r_boxcontent p{
+        font-size: 20px;
+    }
+    /* rate end */
+
+    /* driver start */
+    .icon{
+        font-size: 20px;
+    }
+    /* driver end */
+}
+
+@media (min-width: 1400px) {
+
+}
