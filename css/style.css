@@ -9,6 +9,11 @@ body{
 	font-weight: 400;
     color: black;
 }
+.phone_icon {
+    width: 30px; /* Telefon simgesinin genişliği */
+    height: 30px; /* Telefon simgesinin yüksekliği */
+  }
+  
 .cm_padding{
 	padding-bottom: 100px;
 }
